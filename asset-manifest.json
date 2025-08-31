@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.550a47ea.css",
+    "main.js": "/Portfolio/static/js/main.8dff4367.js",
+    "static/js/415.4d6acbeb.chunk.js": "/Portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/image.png": "/Portfolio/static/media/image.6a113198a1581ba65a7b.png",
+    "static/media/snake.gif": "/Portfolio/static/media/snake.b274d1d7df1d891805de.gif",
+    "static/media/avatar.jpg": "/Portfolio/static/media/avatar.e02018b9043f56ce24dc.jpg",
+    "static/media/coming_soon.png": "/Portfolio/static/media/coming_soon.f3cdc287e2b7e743dcc8.png",
+    "static/media/gst.gif": "/Portfolio/static/media/gst.d7cf250f5f72c07a4e9c.gif",
+    "static/media/hostel.png": "/Portfolio/static/media/hostel.0a19a7302dd6c165f792.png",
+    "static/media/home-main.svg": "/Portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Kuldeep_Mhaske_Resume.pdf": "/Portfolio/static/media/Kuldeep_Mhaske_Resume.ad58445528ea9f1959b8.pdf",
+    "static/media/WRA.png": "/Portfolio/static/media/WRA.1282646f12bf7dc61bc4.png",
+    "static/media/rps.png": "/Portfolio/static/media/rps.0252edb1c1e6c15c301c.png",
+    "static/media/product.png": "/Portfolio/static/media/product.209e34c33897ea9b2274.png",
+    "static/media/pre.svg": "/Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/Portfolio/index.html",
+    "main.550a47ea.css.map": "/Portfolio/static/css/main.550a47ea.css.map",
+    "main.8dff4367.js.map": "/Portfolio/static/js/main.8dff4367.js.map",
+    "415.4d6acbeb.chunk.js.map": "/Portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.550a47ea.css",
+    "static/js/main.8dff4367.js"
+  ]
+}
