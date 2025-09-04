@@ -1,6 +1,6 @@
 <h2 align="center">
   Kuldeep Jagdeo Mhaske - Portfolio Website<br/>
-  <a href="https://github.com/kuldeepmhaske/Portfolio" target="_blank">View on GitHub</a>
+  <a href="https://kuldeepmhaske.github.io/Portfolio/" target="_blank">View Website</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img.png" />
